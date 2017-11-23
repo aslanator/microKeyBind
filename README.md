@@ -1,4 +1,4 @@
-# microKeyBind
+# microKeyBind.js
 
 To add listener on any button just use this simple syntax
 ```javascript
