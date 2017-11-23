@@ -2,12 +2,12 @@
 
 To add listener on any button just use this simple syntax
 ```javascript
-keybind('button', function(e) {});
+keybind('button', function(event) {});
 ```
 or, if you want that listener works only inside specific element, you can use
 
 ```javascript
-keybind('button', element, function(e) {});
+keybind('button', element, function(event) {});
 ```
 
 list of avalible buttons 
